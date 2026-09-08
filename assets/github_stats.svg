@@ -228,7 +228,7 @@
           class="terminal output line"
           font-size="16"
           style="animation-delay:2.55s">
-          Repositories : 12
+          Repositories : 14
         </text>
         
 
@@ -288,7 +288,7 @@
           class="terminal output line"
           font-size="16"
           style="animation-delay:3.87s">
-          Python, Shell, HTML, C
+          Python, Shell, PHP, HTML, C
         </text>
         
 
